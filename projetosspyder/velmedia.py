@@ -28,3 +28,6 @@ teste = vel_media(50, 10)
 print(teste.distancia())
 # print(teste.velocidade())
 # print(teste.tempo())
+
+
+### EU PODERIA USAR APENAS 1 '__init__', DEIXARIA O CÓDIGO MAIS LIMPO
